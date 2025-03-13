@@ -1,2 +1,2 @@
-# Digital-Portfolio
+# prachirr.github.io
 Resume
